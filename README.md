@@ -1,4 +1,4 @@
-# Simple erc20 permit smart conract
+# Simple erc20 permit smart contract
 
 This is a simple of using erc20 permit smart contract.
 
